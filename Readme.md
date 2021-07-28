@@ -1,5 +1,5 @@
-- `let myanmarCity = require('@bilions/myanmar-cities')`
-- `import myanmarCity from '@bilions/myanmar-cities'`
+- `let myanmarCity = require('myanmar-cities')`
+- `import myanmarCity from 'myanmar-cities'`
 
 - `console.log(myanmarCity.getRegions())`
 
