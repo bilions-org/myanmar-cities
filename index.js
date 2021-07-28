@@ -1,5 +1,5 @@
-let cities = require('./data/cities.json')
-let regions = require('./data/regions.json')
+let cities = require('./data/cities')
+let regions = require('./data/regions')
 
 let app = {}
 
@@ -7,10 +7,11 @@ app.getCities = (regionId) => {
   let c = cities.filter((city) => {
     return city.region_id == regionId
   })
-  return c.map(({ name_mm, id }) => {
+  return c.map(({ name_mm, name_en, id }) => {
     return {
       id,
-      name: name_mm,
+      name_mm: name_mm,
+      name_en: name_en,
     }
   })
 }
