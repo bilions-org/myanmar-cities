@@ -2162,7 +2162,7 @@
   {
     "id": 241,
     "region_id": 13,
-    "name_en": "မိုင်းပန်",
+    "name_en": "Mong Pan",
     "name_mm": "မိုင်းပန်",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2171,7 +2171,7 @@
   {
     "id": 242,
     "region_id": 13,
-    "name_en": "မောက်မယ်",
+    "name_en": "Mawkmai",
     "name_mm": "မောက်မယ်",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2180,7 +2180,7 @@
   {
     "id": 243,
     "region_id": 13,
-    "name_en": "လားရှိုး",
+    "name_en": "Lashio",
     "name_mm": "လားရှိုး",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2189,7 +2189,7 @@
   {
     "id": 244,
     "region_id": 13,
-    "name_en": "သိန္နီ",
+    "name_en": "Hsenwi",
     "name_mm": "သိန္နီ",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2198,7 +2198,7 @@
   {
     "id": 245,
     "region_id": 13,
-    "name_en": "မိုင်းရယ်",
+    "name_en": "Mongyai",
     "name_mm": "မိုင်းရယ်",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2207,7 +2207,7 @@
   {
     "id": 246,
     "region_id": 13,
-    "name_en": "တန့်ယန်း",
+    "name_en": "Tangyan",
     "name_mm": "တန့်ယန်း",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2216,7 +2216,7 @@
   {
     "id": 247,
     "region_id": 13,
-    "name_en": "ပန်ဆန်း",
+    "name_en": "Pangsang",
     "name_mm": "ပန်ဆန်း",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2225,7 +2225,7 @@
   {
     "id": 248,
     "region_id": 13,
-    "name_en": "နားဖန်",
+    "name_en": "Namphan",
     "name_mm": "နားဖန်",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2234,7 +2234,7 @@
   {
     "id": 249,
     "region_id": 13,
-    "name_en": "ပန်ဝိုင်း",
+    "name_en": "Pangwaun",
     "name_mm": "ပန်ဝိုင်း",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2243,7 +2243,7 @@
   {
     "id": 250,
     "region_id": 13,
-    "name_en": "မိုင်းမော",
+    "name_en": "Mongmao",
     "name_mm": "မိုင်းမော",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2252,7 +2252,7 @@
   {
     "id": 251,
     "region_id": 13,
-    "name_en": "မူဆယ်",
+    "name_en": "Mu Se",
     "name_mm": "မူဆယ်",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2261,7 +2261,7 @@
   {
     "id": 252,
     "region_id": 13,
-    "name_en": "နမ့်ခမ်း",
+    "name_en": "Namhkam",
     "name_mm": "နမ့်ခမ်း",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2270,7 +2270,7 @@
   {
     "id": 253,
     "region_id": 13,
-    "name_en": "ကွတ်ခိုင်",
+    "name_en": "Kutkai",
     "name_mm": "ကွတ်ခိုင်",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2279,7 +2279,7 @@
   {
     "id": 254,
     "region_id": 13,
-    "name_en": "ကျောက်မဲ",
+    "name_en": "Kyaukme",
     "name_mm": "ကျောက်မဲ",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2288,7 +2288,7 @@
   {
     "id": 255,
     "region_id": 13,
-    "name_en": "နောင်ချို",
+    "name_en": "Nawnghkio",
     "name_mm": "နောင်ချို",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2297,7 +2297,7 @@
   {
     "id": 256,
     "region_id": 13,
-    "name_en": "သီပေါ",
+    "name_en": "Hsipaw",
     "name_mm": "သီပေါ",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2306,7 +2306,7 @@
   {
     "id": 257,
     "region_id": 13,
-    "name_en": "နမ္မတူ",
+    "name_en": "Namtu",
     "name_mm": "နမ္မတူ",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2315,7 +2315,7 @@
   {
     "id": 258,
     "region_id": 13,
-    "name_en": "နမ့်ဆန်",
+    "name_en": "Namhsan",
     "name_mm": "နမ့်ဆန်",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2324,7 +2324,7 @@
   {
     "id": 259,
     "region_id": 13,
-    "name_en": "မိုးမိတ်",
+    "name_en": "Mongmit",
     "name_mm": "မိုးမိတ်",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2333,7 +2333,7 @@
   {
     "id": 260,
     "region_id": 13,
-    "name_en": "မဘိမ်း",
+    "name_en": "Mabein",
     "name_mm": "မဘိမ်း",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2342,7 +2342,7 @@
   {
     "id": 261,
     "region_id": 13,
-    "name_en": "မန်တုံ",
+    "name_en": "Mantong",
     "name_mm": "မန်တုံ",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2351,7 +2351,7 @@
   {
     "id": 262,
     "region_id": 13,
-    "name_en": "ကွမ်းလုံ",
+    "name_en": "Kunlong",
     "name_mm": "ကွမ်းလုံ",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2360,7 +2360,7 @@
   {
     "id": 263,
     "region_id": 13,
-    "name_en": "ဟိုပန်",
+    "name_en": "Hopang",
     "name_mm": "ဟိုပန်",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2369,7 +2369,7 @@
   {
     "id": 264,
     "region_id": 13,
-    "name_en": "လောက်ကိုင်",
+    "name_en": "Laukkaing",
     "name_mm": "လောက်ကိုင်",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2378,7 +2378,7 @@
   {
     "id": 265,
     "region_id": 13,
-    "name_en": "ကုန်းကြမ်း",
+    "name_en": "Konkyan",
     "name_mm": "ကုန်းကြမ်း",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2387,7 +2387,7 @@
   {
     "id": 266,
     "region_id": 13,
-    "name_en": "ကျိုင်းတုံ",
+    "name_en": "Kengtung",
     "name_mm": "ကျိုင်းတုံ",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2396,7 +2396,7 @@
   {
     "id": 267,
     "region_id": 13,
-    "name_en": "မိုင်းလား",
+    "name_en": "Mongla",
     "name_mm": "မိုင်းလား",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2405,7 +2405,7 @@
   {
     "id": 268,
     "region_id": 13,
-    "name_en": "မိုင်းခတ်",
+    "name_en": "Mong Khet",
     "name_mm": "မိုင်းခတ်",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2414,7 +2414,7 @@
   {
     "id": 269,
     "region_id": 13,
-    "name_en": "မိုင်းယန်း",
+    "name_en": "Mong Yang",
     "name_mm": "မိုင်းယန်း",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2423,7 +2423,7 @@
   {
     "id": 270,
     "region_id": 13,
-    "name_en": "မက်မန်း",
+    "name_en": "Matman",
     "name_mm": "မက်မန်း",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2432,7 +2432,7 @@
   {
     "id": 271,
     "region_id": 13,
-    "name_en": "မိုင်းဆတ်",
+    "name_en": "Mong Hsat",
     "name_mm": "မိုင်းဆတ်",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2441,7 +2441,7 @@
   {
     "id": 272,
     "region_id": 13,
-    "name_en": "မိုင်းပြင်း",
+    "name_en": "Mong Ping",
     "name_mm": "မိုင်းပြင်း",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2450,7 +2450,7 @@
   {
     "id": 273,
     "region_id": 13,
-    "name_en": "မိုင်းတုံ",
+    "name_en": "Mong Ton",
     "name_mm": "မိုင်းတုံ",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2459,7 +2459,7 @@
   {
     "id": 274,
     "region_id": 13,
-    "name_en": "တာချီလိတ်",
+    "name_en": "Tachileik",
     "name_mm": "တာချီလိတ်",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2468,7 +2468,7 @@
   {
     "id": 275,
     "region_id": 13,
-    "name_en": "မိုင်းဖြတ်",
+    "name_en": "Mong Hpayak",
     "name_mm": "မိုင်းဖြတ်",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2477,7 +2477,7 @@
   {
     "id": 276,
     "region_id": 13,
-    "name_en": "မိုင်းယောင်း",
+    "name_en": "Mong Yawng",
     "name_mm": "မိုင်းယောင်း",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2486,7 +2486,7 @@
   {
     "id": 277,
     "region_id": 14,
-    "name_en": "ထားဝယ်",
+    "name_en": "Dawei",
     "name_mm": "ထားဝယ်",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2495,7 +2495,7 @@
   {
     "id": 278,
     "region_id": 14,
-    "name_en": "လောင်းလုံ",
+    "name_en": "Launglon",
     "name_mm": "လောင်းလုံ",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2504,7 +2504,7 @@
   {
     "id": 279,
     "region_id": 14,
-    "name_en": "သရက်ချောင်း",
+    "name_en": "Thayetchaung",
     "name_mm": "သရက်ချောင်း",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2513,7 +2513,7 @@
   {
     "id": 280,
     "region_id": 14,
-    "name_en": "ရေဖြူ",
+    "name_en": "Yebyu",
     "name_mm": "ရေဖြူ",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2522,7 +2522,7 @@
   {
     "id": 281,
     "region_id": 14,
-    "name_en": "မြိတ်",
+    "name_en": "Myeik",
     "name_mm": "မြိတ်",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2531,7 +2531,7 @@
   {
     "id": 282,
     "region_id": 14,
-    "name_en": "ကျွန်းစု",
+    "name_en": "Kyunsu",
     "name_mm": "ကျွန်းစု",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2540,7 +2540,7 @@
   {
     "id": 283,
     "region_id": 14,
-    "name_en": "ပုလော",
+    "name_en": "Palaw",
     "name_mm": "ပုလော",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2549,7 +2549,7 @@
   {
     "id": 284,
     "region_id": 14,
-    "name_en": "တနင်္သာရီ",
+    "name_en": "Tanintharyi",
     "name_mm": "တနင်္သာရီ",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2558,7 +2558,7 @@
   {
     "id": 285,
     "region_id": 14,
-    "name_en": "ကော့သောင်း",
+    "name_en": "Kawthaung",
     "name_mm": "ကော့သောင်း",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2567,7 +2567,7 @@
   {
     "id": 286,
     "region_id": 14,
-    "name_en": "ဘုတ်ပြင်း",
+    "name_en": "Bokpyin",
     "name_mm": "ဘုတ်ပြင်း",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2576,7 +2576,7 @@
   {
     "id": 287,
     "region_id": 15,
-    "name_en": "အင်းစိန်",
+    "name_en": "Insein",
     "name_mm": "အင်းစိန်",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2585,7 +2585,7 @@
   {
     "id": 288,
     "region_id": 15,
-    "name_en": "မင်္ဂလာဒုံ",
+    "name_en": "Mingaladon",
     "name_mm": "မင်္ဂလာဒုံ",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2594,7 +2594,7 @@
   {
     "id": 289,
     "region_id": 15,
-    "name_en": "မှော်ဘီ",
+    "name_en": "Hmawbi",
     "name_mm": "မှော်ဘီ",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2603,7 +2603,7 @@
   {
     "id": 290,
     "region_id": 15,
-    "name_en": "လှည်းကူး",
+    "name_en": "Hlegu",
     "name_mm": "လှည်းကူး",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2612,7 +2612,7 @@
   {
     "id": 291,
     "region_id": 15,
-    "name_en": "တိုက်ကြီး",
+    "name_en": "Taikkyi",
     "name_mm": "တိုက်ကြီး",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2621,7 +2621,7 @@
   {
     "id": 292,
     "region_id": 15,
-    "name_en": "ထန်းတပင်",
+    "name_en": "Tantabin",
     "name_mm": "ထန်းတပင်",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2630,7 +2630,7 @@
   {
     "id": 293,
     "region_id": 15,
-    "name_en": "ရွှေပြည်သာ",
+    "name_en": "Shwepyitha",
     "name_mm": "ရွှေပြည်သာ",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2639,7 +2639,7 @@
   {
     "id": 294,
     "region_id": 15,
-    "name_en": "လှိုင်သာယာ",
+    "name_en": "Hlaingthaya",
     "name_mm": "လှိုင်သာယာ",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2648,7 +2648,7 @@
   {
     "id": 295,
     "region_id": 15,
-    "name_en": "သင်္ဃန်းကျွန်း",
+    "name_en": "Thingangyun",
     "name_mm": "သင်္ဃန်းကျွန်း",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2657,7 +2657,7 @@
   {
     "id": 296,
     "region_id": 15,
-    "name_en": "ရန်ကင်း",
+    "name_en": "Yankin",
     "name_mm": "ရန်ကင်း",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2666,7 +2666,7 @@
   {
     "id": 297,
     "region_id": 15,
-    "name_en": "တောင်ဥက္ကလာပ",
+    "name_en": "South Okkalapa",
     "name_mm": "တောင်ဥက္ကလာပ",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2675,7 +2675,7 @@
   {
     "id": 298,
     "region_id": 15,
-    "name_en": "မြောက်ဥက္ကလာပ",
+    "name_en": "North Okkalapa",
     "name_mm": "မြောက်ဥက္ကလာပ",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2684,7 +2684,7 @@
   {
     "id": 299,
     "region_id": 15,
-    "name_en": "သာကေတ",
+    "name_en": "Thaketa",
     "name_mm": "သာကေတ",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2693,7 +2693,7 @@
   {
     "id": 300,
     "region_id": 15,
-    "name_en": "ဒေါပုံ",
+    "name_en": "Dawbon",
     "name_mm": "ဒေါပုံ",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2702,7 +2702,7 @@
   {
     "id": 301,
     "region_id": 15,
-    "name_en": "တာမွေ",
+    "name_en": "Tamwe",
     "name_mm": "တာမွေ",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2711,7 +2711,7 @@
   {
     "id": 302,
     "region_id": 15,
-    "name_en": "ပုဇွန်တောင်",
+    "name_en": "Pazundaung",
     "name_mm": "ပုဇွန်တောင်",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2720,7 +2720,7 @@
   {
     "id": 303,
     "region_id": 15,
-    "name_en": "ဗိုလ်တထောင်",
+    "name_en": "Botataung",
     "name_mm": "ဗိုလ်တထောင်",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2729,7 +2729,7 @@
   {
     "id": 304,
     "region_id": 15,
-    "name_en": "မင်္ဂလာတောင်ညွန့်",
+    "name_en": "Mingala Taungnyunt",
     "name_mm": "မင်္ဂလာတောင်ညွန့်",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2738,7 +2738,7 @@
   {
     "id": 305,
     "region_id": 15,
-    "name_en": "ဒဂုံမြို့သစ် (မြောက်ပိုင်း)",
+    "name_en": "North Dagon (မြောက်ပိုင်း)",
     "name_mm": "ဒဂုံမြို့သစ် (မြောက်ပိုင်း)",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2747,7 +2747,7 @@
   {
     "id": 306,
     "region_id": 15,
-    "name_en": "ဒဂုံမြို့သစ် (တောင်ပိုင်း)",
+    "name_en": "South Dagon (တောင်ပိုင်း)",
     "name_mm": "ဒဂုံမြို့သစ် (တောင်ပိုင်း)",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2756,7 +2756,7 @@
   {
     "id": 307,
     "region_id": 15,
-    "name_en": "ဒဂုံမြို့သစ် (အရှေ့ပိုင်း)",
+    "name_en": "East Dagon",
     "name_mm": "ဒဂုံမြို့သစ် (အရှေ့ပိုင်း)",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2765,7 +2765,7 @@
   {
     "id": 308,
     "region_id": 15,
-    "name_en": "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)",
+    "name_en": "Dagon Seikkan",
     "name_mm": "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2774,7 +2774,7 @@
   {
     "id": 309,
     "region_id": 15,
-    "name_en": "သန်လျင်",
+    "name_en": "Thanlyin",
     "name_mm": "သန်လျင်",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2783,7 +2783,7 @@
   {
     "id": 310,
     "region_id": 15,
-    "name_en": "သုံးခွ",
+    "name_en": "Thongwa",
     "name_mm": "သုံးခွ",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2792,7 +2792,7 @@
   {
     "id": 311,
     "region_id": 15,
-    "name_en": "ကျောက်တန်း",
+    "name_en": "Kyauktan",
     "name_mm": "ကျောက်တန်း",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2801,7 +2801,7 @@
   {
     "id": 312,
     "region_id": 15,
-    "name_en": "ခရမ်း",
+    "name_en": "Kayan",
     "name_mm": "ခရမ်း",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2810,7 +2810,7 @@
   {
     "id": 313,
     "region_id": 15,
-    "name_en": "တွံတေး",
+    "name_en": "Twante",
     "name_mm": "တွံတေး",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2819,7 +2819,7 @@
   {
     "id": 314,
     "region_id": 15,
-    "name_en": "ကွမ်းခြံကုန်း",
+    "name_en": "Kungyangon",
     "name_mm": "ကွမ်းခြံကုန်း",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2828,7 +2828,7 @@
   {
     "id": 315,
     "region_id": 15,
-    "name_en": "ကော့မှူး",
+    "name_en": "Kawhmu",
     "name_mm": "ကော့မှူး",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2837,7 +2837,7 @@
   {
     "id": 316,
     "region_id": 15,
-    "name_en": "ဒလ",
+    "name_en": "Dala",
     "name_mm": "ဒလ",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2846,7 +2846,7 @@
   {
     "id": 317,
     "region_id": 15,
-    "name_en": "ဆိပ်ကြီးခနောင်တို",
+    "name_en": "Seikkyi Kanaungto",
     "name_mm": "ဆိပ်ကြီးခနောင်တို",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2855,7 +2855,7 @@
   {
     "id": 318,
     "region_id": 15,
-    "name_en": "ကိုကိုးကျွန်း",
+    "name_en": "Cocokyun",
     "name_mm": "ကိုကိုးကျွန်း",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2864,7 +2864,7 @@
   {
     "id": 319,
     "region_id": 15,
-    "name_en": "ကျောက်တံတား",
+    "name_en": "Kyauktada",
     "name_mm": "ကျောက်တံတား",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2873,7 +2873,7 @@
   {
     "id": 320,
     "region_id": 15,
-    "name_en": "လသာ",
+    "name_en": "Latha",
     "name_mm": "လသာ",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2882,7 +2882,7 @@
   {
     "id": 321,
     "region_id": 15,
-    "name_en": "လမ်းမတော်",
+    "name_en": "Lanmadaw",
     "name_mm": "လမ်းမတော်",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2891,7 +2891,7 @@
   {
     "id": 322,
     "region_id": 15,
-    "name_en": "ပန်းဘဲတန်း",
+    "name_en": "Pabedan",
     "name_mm": "ပန်းဘဲတန်း",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2900,7 +2900,7 @@
   {
     "id": 323,
     "region_id": 15,
-    "name_en": "အလုံ",
+    "name_en": "Ahlon",
     "name_mm": "အလုံ",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2909,7 +2909,7 @@
   {
     "id": 324,
     "region_id": 15,
-    "name_en": "ကြည့်မြင်တိုင်",
+    "name_en": "Kyimyindaing",
     "name_mm": "ကြည့်မြင်တိုင်",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2918,7 +2918,7 @@
   {
     "id": 325,
     "region_id": 15,
-    "name_en": "စမ်းချောင်း",
+    "name_en": "Sanchaung",
     "name_mm": "စမ်းချောင်း",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2927,7 +2927,7 @@
   {
     "id": 326,
     "region_id": 15,
-    "name_en": "ကမာရွတ်",
+    "name_en": "Kamayut",
     "name_mm": "ကမာရွတ်",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2936,7 +2936,7 @@
   {
     "id": 327,
     "region_id": 15,
-    "name_en": "လှိုင်",
+    "name_en": "Hlaing",
     "name_mm": "လှိုင်",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2945,7 +2945,7 @@
   {
     "id": 328,
     "region_id": 15,
-    "name_en": "မရမ်းကုန်း",
+    "name_en": "Mayangon",
     "name_mm": "မရမ်းကုန်း",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2954,7 +2954,7 @@
   {
     "id": 329,
     "region_id": 15,
-    "name_en": "ဗဟန်း",
+    "name_en": "Bahan",
     "name_mm": "ဗဟန်း",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2963,7 +2963,7 @@
   {
     "id": 330,
     "region_id": 15,
-    "name_en": "ဒဂုံ",
+    "name_en": "Dagon",
     "name_mm": "ဒဂုံ",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
@@ -2972,7 +2972,7 @@
   {
     "id": 331,
     "region_id": 15,
-    "name_en": "ဆိပ်ကမ်း",
+    "name_en": "Seikkan",
     "name_mm": "ဆိပ်ကမ်း",
     "code": "NULL",
     "created_at": "2021-07-28 13:00:24",
