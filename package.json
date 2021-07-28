@@ -1,5 +1,5 @@
 {
-  "name": "@bilions/myanmar-cities",
+  "name": "myanmar-cities",
   "version": "1.0.0",
   "description": "Myanmar City List",
   "main": "index.js",
