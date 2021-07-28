@@ -14,5 +14,13 @@
     "Burmese"
   ],
   "author": "Zin Kyaw Kyaw",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bilions-Integration/myanmar-cities"
+  },
+  "bugs": {
+    "url": "https://github.com/Bilions-Integration/myanmar-cities/issues"
+  },
+  "homepage": "https://github.com/Bilions-Integration/myanmar-cities#Readme"
 }
