@@ -1,0 +1,2981 @@
+[
+  {
+    "id": 1,
+    "region_id": 1,
+    "name_en": "ပုသိမ်",
+    "name_mm": "ပုသိမ်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 2,
+    "region_id": 1,
+    "name_en": "ကန်ကြီးထောင့်",
+    "name_mm": "ကန်ကြီးထောင့်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 3,
+    "region_id": 1,
+    "name_en": "သာပေါင်း",
+    "name_mm": "သာပေါင်း",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 4,
+    "region_id": 1,
+    "name_en": "ငပုတော",
+    "name_mm": "ငပုတော",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 5,
+    "region_id": 1,
+    "name_en": "ကျုံပျော်",
+    "name_mm": "ကျုံပျော်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 6,
+    "region_id": 1,
+    "name_en": "ရေကြည်",
+    "name_mm": "ရေကြည်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 7,
+    "region_id": 1,
+    "name_en": "ကျောင်းကုန်း",
+    "name_mm": "ကျောင်းကုန်း",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 8,
+    "region_id": 1,
+    "name_en": "ဟင်္သာတ",
+    "name_mm": "ဟင်္သာတ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 9,
+    "region_id": 1,
+    "name_en": "ဇလွန်",
+    "name_mm": "ဇလွန်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 10,
+    "region_id": 1,
+    "name_en": "လေးမျက်နှာ",
+    "name_mm": "လေးမျက်နှာ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 11,
+    "region_id": 1,
+    "name_en": "မြန်အောင်",
+    "name_mm": "မြန်အောင်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 12,
+    "region_id": 1,
+    "name_en": "ကြံခင်း",
+    "name_mm": "ကြံခင်း",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 13,
+    "region_id": 1,
+    "name_en": "အဂံပူ",
+    "name_mm": "အဂံပူ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 14,
+    "region_id": 1,
+    "name_en": "မြောင်းမြ",
+    "name_mm": "မြောင်းမြ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 15,
+    "region_id": 1,
+    "name_en": "အိမ်မဲ",
+    "name_mm": "အိမ်မဲ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 16,
+    "region_id": 1,
+    "name_en": "ဝါးခယ်မ",
+    "name_mm": "ဝါးခယ်မ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 17,
+    "region_id": 1,
+    "name_en": "လပွတ္တာ",
+    "name_mm": "လပွတ္တာ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 18,
+    "region_id": 1,
+    "name_en": "မအူပင်",
+    "name_mm": "မအူပင်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 19,
+    "region_id": 1,
+    "name_en": "ပန်းတနော်",
+    "name_mm": "ပန်းတနော်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 20,
+    "region_id": 1,
+    "name_en": "ညောင်တုန်း",
+    "name_mm": "ညောင်တုန်း",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 21,
+    "region_id": 1,
+    "name_en": "ဓနုဖြူ",
+    "name_mm": "ဓနုဖြူ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 22,
+    "region_id": 1,
+    "name_en": "မအူပင်",
+    "name_mm": "မအူပင်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 23,
+    "region_id": 1,
+    "name_en": "ဖျာပုံ",
+    "name_mm": "ဖျာပုံ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 24,
+    "region_id": 1,
+    "name_en": "ကျိုက်လတ်",
+    "name_mm": "ကျိုက်လတ်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 25,
+    "region_id": 1,
+    "name_en": "ဘိုကလေး",
+    "name_mm": "ဘိုကလေး",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 26,
+    "region_id": 1,
+    "name_en": "ဒေးဒရဲ",
+    "name_mm": "ဒေးဒရဲ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 27,
+    "region_id": 2,
+    "name_en": "ပဲခူး",
+    "name_mm": "ပဲခူး",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 28,
+    "region_id": 2,
+    "name_en": "သနပ္ပင်",
+    "name_mm": "သနပ္ပင်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 29,
+    "region_id": 2,
+    "name_en": "ကဝ",
+    "name_mm": "ကဝ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 30,
+    "region_id": 2,
+    "name_en": "ဝေါ",
+    "name_mm": "ဝေါ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 31,
+    "region_id": 2,
+    "name_en": "ညောင်လေးပင်",
+    "name_mm": "ညောင်လေးပင်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 32,
+    "region_id": 2,
+    "name_en": "ကျောက်တံခါး",
+    "name_mm": "ကျောက်တံခါး",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 33,
+    "region_id": 2,
+    "name_en": "ဒိုက်ဦး",
+    "name_mm": "ဒိုက်ဦး",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 34,
+    "region_id": 2,
+    "name_en": "ရွှေကျင်",
+    "name_mm": "ရွှေကျင်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 35,
+    "region_id": 2,
+    "name_en": "တောင်ငူ",
+    "name_mm": "တောင်ငူ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 36,
+    "region_id": 2,
+    "name_en": "ရေတာရှည်",
+    "name_mm": "ရေတာရှည်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 37,
+    "region_id": 2,
+    "name_en": "ကျောက်ကြီး",
+    "name_mm": "ကျောက်ကြီး",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 38,
+    "region_id": 2,
+    "name_en": "ဖြူး",
+    "name_mm": "ဖြူး",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 39,
+    "region_id": 2,
+    "name_en": "အုတ်တွင်း",
+    "name_mm": "အုတ်တွင်း",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 40,
+    "region_id": 2,
+    "name_en": "ထန်းတပင်",
+    "name_mm": "ထန်းတပင်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 41,
+    "region_id": 2,
+    "name_en": "ပြည်",
+    "name_mm": "ပြည်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 42,
+    "region_id": 2,
+    "name_en": "ပေါက်ခေါင်း",
+    "name_mm": "ပေါက်ခေါင်း",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 43,
+    "region_id": 2,
+    "name_en": "ပန်းတောင်း",
+    "name_mm": "ပန်းတောင်း",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 44,
+    "region_id": 2,
+    "name_en": "ပေါင်းတည်",
+    "name_mm": "ပေါင်းတည်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 45,
+    "region_id": 2,
+    "name_en": "သဲကုန်း",
+    "name_mm": "သဲကုန်း",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 46,
+    "region_id": 2,
+    "name_en": "ရွှေတောင်",
+    "name_mm": "ရွှေတောင်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 47,
+    "region_id": 2,
+    "name_en": "သာယာဝတီ",
+    "name_mm": "သာယာဝတီ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 48,
+    "region_id": 2,
+    "name_en": "လက်ပံတန်း",
+    "name_mm": "လက်ပံတန်း",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 49,
+    "region_id": 2,
+    "name_en": "မင်းလှ",
+    "name_mm": "မင်းလှ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 50,
+    "region_id": 2,
+    "name_en": "အုတ်ဖို",
+    "name_mm": "အုတ်ဖို",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 51,
+    "region_id": 2,
+    "name_en": "ဇီးကုန်း",
+    "name_mm": "ဇီးကုန်း",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 52,
+    "region_id": 2,
+    "name_en": "နတ်တလင်း",
+    "name_mm": "နတ်တလင်း",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 53,
+    "region_id": 2,
+    "name_en": "မိုးညို",
+    "name_mm": "မိုးညို",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 54,
+    "region_id": 2,
+    "name_en": "ကြို့ပင်ကောက်",
+    "name_mm": "ကြို့ပင်ကောက်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 55,
+    "region_id": 3,
+    "name_en": "ဖလမ်း",
+    "name_mm": "ဖလမ်း",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 56,
+    "region_id": 3,
+    "name_en": "ဟားခါး",
+    "name_mm": "ဟားခါး",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 57,
+    "region_id": 3,
+    "name_en": "ထန်တလန်",
+    "name_mm": "ထန်တလန်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 58,
+    "region_id": 3,
+    "name_en": "တီးတိန်",
+    "name_mm": "တီးတိန်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 59,
+    "region_id": 3,
+    "name_en": "တွန်းဇံ",
+    "name_mm": "တွန်းဇံ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 60,
+    "region_id": 3,
+    "name_en": "မင်းတပ်",
+    "name_mm": "မင်းတပ်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 61,
+    "region_id": 3,
+    "name_en": "မတူပီ",
+    "name_mm": "မတူပီ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 62,
+    "region_id": 3,
+    "name_en": "ကန်ပက်လက်",
+    "name_mm": "ကန်ပက်လက်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 63,
+    "region_id": 3,
+    "name_en": "ပလက်ဝ",
+    "name_mm": "ပလက်ဝ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 64,
+    "region_id": 4,
+    "name_en": "မြစ်ကြီးနား",
+    "name_mm": "မြစ်ကြီးနား",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 65,
+    "region_id": 4,
+    "name_en": "ဝိုင်းမော်",
+    "name_mm": "ဝိုင်းမော်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 66,
+    "region_id": 4,
+    "name_en": "အင်ဂျန်းယန်",
+    "name_mm": "အင်ဂျန်းယန်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 67,
+    "region_id": 4,
+    "name_en": "တနိုင်း",
+    "name_mm": "တနိုင်း",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 68,
+    "region_id": 4,
+    "name_en": "ချီဖွေ",
+    "name_mm": "ချီဖွေ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 69,
+    "region_id": 4,
+    "name_en": "ဆော့လော်",
+    "name_mm": "ဆော့လော်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 70,
+    "region_id": 4,
+    "name_en": "မိုးညှင်း",
+    "name_mm": "မိုးညှင်း",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 71,
+    "region_id": 4,
+    "name_en": "မိုးကောင်း",
+    "name_mm": "မိုးကောင်း",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 72,
+    "region_id": 4,
+    "name_en": "ဖားကန့်",
+    "name_mm": "ဖားကန့်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 73,
+    "region_id": 4,
+    "name_en": "ဗန်းမော်",
+    "name_mm": "ဗန်းမော်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 74,
+    "region_id": 4,
+    "name_en": "ရွှေကူ",
+    "name_mm": "ရွှေကူ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 75,
+    "region_id": 4,
+    "name_en": "မိုးမောက်",
+    "name_mm": "မိုးမောက်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 76,
+    "region_id": 4,
+    "name_en": "မံစီ",
+    "name_mm": "မံစီ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 77,
+    "region_id": 4,
+    "name_en": "ပူတာအို",
+    "name_mm": "ပူတာအို",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 78,
+    "region_id": 4,
+    "name_en": "ဆွန်ပရာဘွမ်",
+    "name_mm": "ဆွန်ပရာဘွမ်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 79,
+    "region_id": 4,
+    "name_en": "မချမ်းဘော",
+    "name_mm": "မချမ်းဘော",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 80,
+    "region_id": 4,
+    "name_en": "ခေါင်လန်ဖူး",
+    "name_mm": "ခေါင်လန်ဖူး",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 81,
+    "region_id": 4,
+    "name_en": "နောင်မွန်း",
+    "name_mm": "နောင်မွန်း",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 82,
+    "region_id": 5,
+    "name_en": "လွိုင်ကော်",
+    "name_mm": "လွိုင်ကော်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 83,
+    "region_id": 5,
+    "name_en": "ဒီမောဆို",
+    "name_mm": "ဒီမောဆို",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 84,
+    "region_id": 5,
+    "name_en": "ဖရူဆို",
+    "name_mm": "ဖရူဆို",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 85,
+    "region_id": 5,
+    "name_en": "ရှားတော",
+    "name_mm": "ရှားတော",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 86,
+    "region_id": 5,
+    "name_en": "ဘော်လခဲ",
+    "name_mm": "ဘော်လခဲ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 87,
+    "region_id": 5,
+    "name_en": "ဖားဆောင်း",
+    "name_mm": "ဖားဆောင်း",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 88,
+    "region_id": 5,
+    "name_en": "မဲ့စဲ့",
+    "name_mm": "မဲ့စဲ့",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 89,
+    "region_id": 6,
+    "name_en": "ဘားအံ",
+    "name_mm": "ဘားအံ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 90,
+    "region_id": 6,
+    "name_en": "လှိုင်းဘွဲ့",
+    "name_mm": "လှိုင်းဘွဲ့",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 91,
+    "region_id": 6,
+    "name_en": "ဖာပွန်",
+    "name_mm": "ဖာပွန်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 92,
+    "region_id": 6,
+    "name_en": "သံတောင်ကြီး",
+    "name_mm": "သံတောင်ကြီး",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 93,
+    "region_id": 6,
+    "name_en": "မြဝတီ",
+    "name_mm": "မြဝတီ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 94,
+    "region_id": 6,
+    "name_en": "ကော့ကရိတ်",
+    "name_mm": "ကော့ကရိတ်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 95,
+    "region_id": 6,
+    "name_en": "ကြာအင်းဆိပ်ကြီး",
+    "name_mm": "ကြာအင်းဆိပ်ကြီး",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 96,
+    "region_id": 7,
+    "name_en": "မကွေး",
+    "name_mm": "မကွေး",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 97,
+    "region_id": 7,
+    "name_en": "ရေနံချောင်း",
+    "name_mm": "ရေနံချောင်း",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 98,
+    "region_id": 7,
+    "name_en": "ချောက်",
+    "name_mm": "ချောက်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 99,
+    "region_id": 7,
+    "name_en": "တောင်တွင်းကြီး",
+    "name_mm": "တောင်တွင်းကြီး",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 100,
+    "region_id": 7,
+    "name_en": "မြို့သစ်",
+    "name_mm": "မြို့သစ်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 101,
+    "region_id": 7,
+    "name_en": "နတ်မောက်",
+    "name_mm": "နတ်မောက်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 102,
+    "region_id": 7,
+    "name_en": "မင်းဘူး",
+    "name_mm": "မင်းဘူး",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 103,
+    "region_id": 7,
+    "name_en": "ပွင့်ဖြူ",
+    "name_mm": "ပွင့်ဖြူ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 104,
+    "region_id": 7,
+    "name_en": "ငဖဲ",
+    "name_mm": "ငဖဲ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 105,
+    "region_id": 7,
+    "name_en": "စလင်း",
+    "name_mm": "စလင်း",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 106,
+    "region_id": 7,
+    "name_en": "စေတုတ္တရာ",
+    "name_mm": "စေတုတ္တရာ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 107,
+    "region_id": 7,
+    "name_en": "သရက်",
+    "name_mm": "သရက်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 108,
+    "region_id": 7,
+    "name_en": "မင်းလှ",
+    "name_mm": "မင်းလှ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 109,
+    "region_id": 7,
+    "name_en": "မင်းတုန်း",
+    "name_mm": "မင်းတုန်း",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 110,
+    "region_id": 7,
+    "name_en": "ကံမ",
+    "name_mm": "ကံမ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 111,
+    "region_id": 7,
+    "name_en": "အောင်လံ",
+    "name_mm": "အောင်လံ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 112,
+    "region_id": 7,
+    "name_en": "ဆင်ပေါင်ဝဲ",
+    "name_mm": "ဆင်ပေါင်ဝဲ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 113,
+    "region_id": 7,
+    "name_en": "ပခုက္ကူ",
+    "name_mm": "ပခုက္ကူ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 114,
+    "region_id": 7,
+    "name_en": "ရေစကြို",
+    "name_mm": "ရေစကြို",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 115,
+    "region_id": 7,
+    "name_en": "မြိုင်",
+    "name_mm": "မြိုင်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 116,
+    "region_id": 7,
+    "name_en": "ပေါက်",
+    "name_mm": "ပေါက်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 117,
+    "region_id": 7,
+    "name_en": "ဆိပ်ဖြူ",
+    "name_mm": "ဆိပ်ဖြူ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 118,
+    "region_id": 7,
+    "name_en": "ဂန့်ဂေါ",
+    "name_mm": "ဂန့်ဂေါ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 119,
+    "region_id": 7,
+    "name_en": "ထီးလင်း",
+    "name_mm": "ထီးလင်း",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 120,
+    "region_id": 7,
+    "name_en": "ဆော",
+    "name_mm": "ဆော",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 121,
+    "region_id": 8,
+    "name_en": "အောင်မြေသာဇံ",
+    "name_mm": "အောင်မြေသာဇံ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 122,
+    "region_id": 8,
+    "name_en": "ချမ်းအေးသာဇံ",
+    "name_mm": "ချမ်းအေးသာဇံ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 123,
+    "region_id": 8,
+    "name_en": "မဟာအောင်မြေ",
+    "name_mm": "မဟာအောင်မြေ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 124,
+    "region_id": 8,
+    "name_en": "ချမ်းမြသာစည်",
+    "name_mm": "ချမ်းမြသာစည်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 125,
+    "region_id": 8,
+    "name_en": "ပြည်ကြီးတံခွန်",
+    "name_mm": "ပြည်ကြီးတံခွန်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 126,
+    "region_id": 8,
+    "name_en": "အမရပူရ",
+    "name_mm": "အမရပူရ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 127,
+    "region_id": 8,
+    "name_en": "ပုသိမ်ကြီး",
+    "name_mm": "ပုသိမ်ကြီး",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 128,
+    "region_id": 8,
+    "name_en": "ပြင်ဦးလွင်",
+    "name_mm": "ပြင်ဦးလွင်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 129,
+    "region_id": 8,
+    "name_en": "မတ္တရာ",
+    "name_mm": "မတ္တရာ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 130,
+    "region_id": 8,
+    "name_en": "စဉ့်ကူး",
+    "name_mm": "စဉ့်ကူး",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 131,
+    "region_id": 8,
+    "name_en": "မိုးကုတ်",
+    "name_mm": "မိုးကုတ်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 132,
+    "region_id": 8,
+    "name_en": "သပိတ်ကျင်း",
+    "name_mm": "သပိတ်ကျင်း",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 133,
+    "region_id": 8,
+    "name_en": "ကျောက်ဆည်",
+    "name_mm": "ကျောက်ဆည်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 134,
+    "region_id": 8,
+    "name_en": "စဉ်ုကိုင်",
+    "name_mm": "စဉ်ုကိုင်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 135,
+    "region_id": 8,
+    "name_en": "မြစ်သား",
+    "name_mm": "မြစ်သား",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 136,
+    "region_id": 8,
+    "name_en": "တံတားဦး",
+    "name_mm": "တံတားဦး",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 137,
+    "region_id": 8,
+    "name_en": "မြင်းခြံ",
+    "name_mm": "မြင်းခြံ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 138,
+    "region_id": 8,
+    "name_en": "တောင်သာ",
+    "name_mm": "တောင်သာ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 139,
+    "region_id": 8,
+    "name_en": "နွားထိုးကြီး",
+    "name_mm": "နွားထိုးကြီး",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 140,
+    "region_id": 8,
+    "name_en": "ကျောက်ပန်းတောင်း",
+    "name_mm": "ကျောက်ပန်းတောင်း",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 141,
+    "region_id": 8,
+    "name_en": "ငါန်းဇွန်",
+    "name_mm": "ငါန်းဇွန်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 142,
+    "region_id": 8,
+    "name_en": "ညောင်ဦး",
+    "name_mm": "ညောင်ဦး",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 143,
+    "region_id": 8,
+    "name_en": "ရမည်းသင်း",
+    "name_mm": "ရမည်းသင်း",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 144,
+    "region_id": 8,
+    "name_en": "ပျော်ဘွယ်",
+    "name_mm": "ပျော်ဘွယ်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 145,
+    "region_id": 8,
+    "name_en": "မိတ္ထီလာ",
+    "name_mm": "မိတ္ထီလာ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 146,
+    "region_id": 8,
+    "name_en": "မလှိုင်",
+    "name_mm": "မလှိုင်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 147,
+    "region_id": 8,
+    "name_en": "သာစည်",
+    "name_mm": "သာစည်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 148,
+    "region_id": 8,
+    "name_en": "ဝမ်းတွင်း",
+    "name_mm": "ဝမ်းတွင်း",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 149,
+    "region_id": 9,
+    "name_en": "မော်လမြိုင်",
+    "name_mm": "မော်လမြိုင်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 150,
+    "region_id": 9,
+    "name_en": "ကျိုက်မရော",
+    "name_mm": "ကျိုက်မရော",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 151,
+    "region_id": 9,
+    "name_en": "ချောင်းဆုံ",
+    "name_mm": "ချောင်းဆုံ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 152,
+    "region_id": 9,
+    "name_en": "သံဖြူဇရပ်",
+    "name_mm": "သံဖြူဇရပ်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 153,
+    "region_id": 9,
+    "name_en": "မုဒုံ",
+    "name_mm": "မုဒုံ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 154,
+    "region_id": 9,
+    "name_en": "ရေး",
+    "name_mm": "ရေး",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 155,
+    "region_id": 9,
+    "name_en": "သထုံ",
+    "name_mm": "သထုံ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 156,
+    "region_id": 9,
+    "name_en": "ပေါင်",
+    "name_mm": "ပေါင်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 157,
+    "region_id": 9,
+    "name_en": "ကျိုက်ထို",
+    "name_mm": "ကျိုက်ထို",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 158,
+    "region_id": 9,
+    "name_en": "ဘီးလင်း",
+    "name_mm": "ဘီးလင်း",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 159,
+    "region_id": 9,
+    "name_en": "ကျိုက္ခမီ",
+    "name_mm": "ကျိုက္ခမီ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 160,
+    "region_id": 10,
+    "name_en": "ဇေယျာသီရိ",
+    "name_mm": "ဇေယျာသီရိ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 161,
+    "region_id": 10,
+    "name_en": "ပုဗ္ဗသီရိ",
+    "name_mm": "ပုဗ္ဗသီရိ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 162,
+    "region_id": 10,
+    "name_en": "ဥတ္တရသီရီ",
+    "name_mm": "ဥတ္တရသီရီ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 163,
+    "region_id": 10,
+    "name_en": "ဇမ္ဗူသီရိ",
+    "name_mm": "ဇမ္ဗူသီရိ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 164,
+    "region_id": 10,
+    "name_en": "ဒက္ခိဏသီရိ",
+    "name_mm": "ဒက္ခိဏသီရိ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 165,
+    "region_id": 10,
+    "name_en": "ပျဉ်းမနား",
+    "name_mm": "ပျဉ်းမနား",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 166,
+    "region_id": 10,
+    "name_en": "တပ်ကုန်း",
+    "name_mm": "တပ်ကုန်း",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 167,
+    "region_id": 10,
+    "name_en": "လယ်ဝေး",
+    "name_mm": "လယ်ဝေး",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 168,
+    "region_id": 11,
+    "name_en": "စစ်တွေ",
+    "name_mm": "စစ်တွေ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 169,
+    "region_id": 11,
+    "name_en": "ပုဏ္ဏားကျွန်း",
+    "name_mm": "ပုဏ္ဏားကျွန်း",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 170,
+    "region_id": 11,
+    "name_en": "မြောက်ဦး",
+    "name_mm": "မြောက်ဦး",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 171,
+    "region_id": 11,
+    "name_en": "ကျောက်တော်",
+    "name_mm": "ကျောက်တော်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 172,
+    "region_id": 11,
+    "name_en": "မင်းပြား",
+    "name_mm": "မင်းပြား",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 173,
+    "region_id": 11,
+    "name_en": "မြေပုံ",
+    "name_mm": "မြေပုံ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 174,
+    "region_id": 11,
+    "name_en": "ပေါက်တော",
+    "name_mm": "ပေါက်တော",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 175,
+    "region_id": 11,
+    "name_en": "ရသေ့တောင်",
+    "name_mm": "ရသေ့တောင်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 176,
+    "region_id": 11,
+    "name_en": "မောင်တော",
+    "name_mm": "မောင်တော",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 177,
+    "region_id": 11,
+    "name_en": "ဘူးသီးတောင်",
+    "name_mm": "ဘူးသီးတောင်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 178,
+    "region_id": 11,
+    "name_en": "ကျောက်ဖြူ",
+    "name_mm": "ကျောက်ဖြူ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 179,
+    "region_id": 11,
+    "name_en": "မာန်အောင်",
+    "name_mm": "မာန်အောင်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 180,
+    "region_id": 11,
+    "name_en": "ရမ်းဗြဲ",
+    "name_mm": "ရမ်းဗြဲ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 181,
+    "region_id": 11,
+    "name_en": "အမ်း",
+    "name_mm": "အမ်း",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 182,
+    "region_id": 11,
+    "name_en": "သံတွဲ",
+    "name_mm": "သံတွဲ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 183,
+    "region_id": 11,
+    "name_en": "တောင်ကုတ်",
+    "name_mm": "တောင်ကုတ်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 184,
+    "region_id": 11,
+    "name_en": "ဂွ",
+    "name_mm": "ဂွ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 185,
+    "region_id": 12,
+    "name_en": "စစ်ကိုင်း",
+    "name_mm": "စစ်ကိုင်း",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 186,
+    "region_id": 12,
+    "name_en": "မြင်းမူ",
+    "name_mm": "မြင်းမူ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 187,
+    "region_id": 12,
+    "name_en": "မြောင်",
+    "name_mm": "မြောင်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 188,
+    "region_id": 12,
+    "name_en": "ရွှေဘို",
+    "name_mm": "ရွှေဘို",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 189,
+    "region_id": 12,
+    "name_en": "ခင်ဦး",
+    "name_mm": "ခင်ဦး",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 190,
+    "region_id": 12,
+    "name_en": "ဝက်လက်",
+    "name_mm": "ဝက်လက်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 191,
+    "region_id": 12,
+    "name_en": "ကန့်ဘလူ",
+    "name_mm": "ကန့်ဘလူ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 192,
+    "region_id": 12,
+    "name_en": "ကျွန်းလှ",
+    "name_mm": "ကျွန်းလှ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 193,
+    "region_id": 12,
+    "name_en": "ရေဦး",
+    "name_mm": "ရေဦး",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 194,
+    "region_id": 12,
+    "name_en": "ဒီပဲယင်း",
+    "name_mm": "ဒီပဲယင်း",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 195,
+    "region_id": 12,
+    "name_en": "တန့်ဆည်",
+    "name_mm": "တန့်ဆည်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 196,
+    "region_id": 12,
+    "name_en": "မုံရွာ",
+    "name_mm": "မုံရွာ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 197,
+    "region_id": 12,
+    "name_en": "ဘုတလင်",
+    "name_mm": "ဘုတလင်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 198,
+    "region_id": 12,
+    "name_en": "အရာတော်",
+    "name_mm": "အရာတော်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 199,
+    "region_id": 12,
+    "name_en": "ချောင်းဦး",
+    "name_mm": "ချောင်းဦး",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 200,
+    "region_id": 12,
+    "name_en": "ယင်းမာပင်",
+    "name_mm": "ယင်းမာပင်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 201,
+    "region_id": 12,
+    "name_en": "ကနီ",
+    "name_mm": "ကနီ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 202,
+    "region_id": 12,
+    "name_en": "ဆားလင်းကြီး",
+    "name_mm": "ဆားလင်းကြီး",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 203,
+    "region_id": 12,
+    "name_en": "ပုလဲ",
+    "name_mm": "ပုလဲ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 204,
+    "region_id": 12,
+    "name_en": "ကသာ",
+    "name_mm": "ကသာ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 205,
+    "region_id": 12,
+    "name_en": "အင်းတော်",
+    "name_mm": "အင်းတော်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 206,
+    "region_id": 12,
+    "name_en": "ထီးချိုင့်",
+    "name_mm": "ထီးချိုင့်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 207,
+    "region_id": 12,
+    "name_en": "ဗန်းမောက်",
+    "name_mm": "ဗန်းမောက်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 208,
+    "region_id": 12,
+    "name_en": "ကောလင်း",
+    "name_mm": "ကောလင်း",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 209,
+    "region_id": 12,
+    "name_en": "ဝန်းသို",
+    "name_mm": "ဝန်းသို",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 210,
+    "region_id": 12,
+    "name_en": "ပင်လည်ဘူး",
+    "name_mm": "ပင်လည်ဘူး",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 211,
+    "region_id": 12,
+    "name_en": "ကလေး",
+    "name_mm": "ကလေး",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 212,
+    "region_id": 12,
+    "name_en": "ကလေးဝ",
+    "name_mm": "ကလေးဝ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 213,
+    "region_id": 12,
+    "name_en": "မင်းကင်း",
+    "name_mm": "မင်းကင်း",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 214,
+    "region_id": 12,
+    "name_en": "တမူး",
+    "name_mm": "တမူး",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 215,
+    "region_id": 12,
+    "name_en": "မော်လိုက်",
+    "name_mm": "မော်လိုက်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 216,
+    "region_id": 12,
+    "name_en": "ဖောင်းပြင်",
+    "name_mm": "ဖောင်းပြင်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 217,
+    "region_id": 12,
+    "name_en": "ခန္တီး",
+    "name_mm": "ခန္တီး",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 218,
+    "region_id": 12,
+    "name_en": "ဟုမ္မလင်း",
+    "name_mm": "ဟုမ္မလင်း",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 219,
+    "region_id": 12,
+    "name_en": "လေရှီး",
+    "name_mm": "လေရှီး",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 220,
+    "region_id": 12,
+    "name_en": "လဟယ်",
+    "name_mm": "လဟယ်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 221,
+    "region_id": 12,
+    "name_en": "နန်းယွန်း",
+    "name_mm": "နန်းယွန်း",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 222,
+    "region_id": 13,
+    "name_en": "တောင်ကြီး",
+    "name_mm": "တောင်ကြီး",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 223,
+    "region_id": 13,
+    "name_en": "ညောင်ရွှေ",
+    "name_mm": "ညောင်ရွှေ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 224,
+    "region_id": 13,
+    "name_en": "ဟိုပုံး",
+    "name_mm": "ဟိုပုံး",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 225,
+    "region_id": 13,
+    "name_en": "ဆီဆိုင်",
+    "name_mm": "ဆီဆိုင်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 226,
+    "region_id": 13,
+    "name_en": "ကလော",
+    "name_mm": "ကလော",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 227,
+    "region_id": 13,
+    "name_en": "ပင်းတယ",
+    "name_mm": "ပင်းတယ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 228,
+    "region_id": 13,
+    "name_en": "ရွာငံ",
+    "name_mm": "ရွာငံ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 229,
+    "region_id": 13,
+    "name_en": "ရပ်စောက်",
+    "name_mm": "ရပ်စောက်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 230,
+    "region_id": 13,
+    "name_en": "ပင်လောင်း",
+    "name_mm": "ပင်လောင်း",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 231,
+    "region_id": 13,
+    "name_en": "ဖယ်ခုံ",
+    "name_mm": "ဖယ်ခုံ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 232,
+    "region_id": 13,
+    "name_en": "လွိုင်လင်",
+    "name_mm": "လွိုင်လင်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 233,
+    "region_id": 13,
+    "name_en": "လဲချား",
+    "name_mm": "လဲချား",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 234,
+    "region_id": 13,
+    "name_en": "နမ့်စန်",
+    "name_mm": "နမ့်စန်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 235,
+    "region_id": 13,
+    "name_en": "ကွန်ဟိန်း",
+    "name_mm": "ကွန်ဟိန်း",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 236,
+    "region_id": 13,
+    "name_en": "ကျေးသီး",
+    "name_mm": "ကျေးသီး",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 237,
+    "region_id": 13,
+    "name_en": "မိုင်းကိုင်",
+    "name_mm": "မိုင်းကိုင်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 238,
+    "region_id": 13,
+    "name_en": "မိုင်းရှှုး",
+    "name_mm": "မိုင်းရှှုး",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 239,
+    "region_id": 13,
+    "name_en": "လင်းခေး",
+    "name_mm": "လင်းခေး",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 240,
+    "region_id": 13,
+    "name_en": "မိုးနဲ",
+    "name_mm": "မိုးနဲ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 241,
+    "region_id": 13,
+    "name_en": "မိုင်းပန်",
+    "name_mm": "မိုင်းပန်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 242,
+    "region_id": 13,
+    "name_en": "မောက်မယ်",
+    "name_mm": "မောက်မယ်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 243,
+    "region_id": 13,
+    "name_en": "လားရှိုး",
+    "name_mm": "လားရှိုး",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 244,
+    "region_id": 13,
+    "name_en": "သိန္နီ",
+    "name_mm": "သိန္နီ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 245,
+    "region_id": 13,
+    "name_en": "မိုင်းရယ်",
+    "name_mm": "မိုင်းရယ်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 246,
+    "region_id": 13,
+    "name_en": "တန့်ယန်း",
+    "name_mm": "တန့်ယန်း",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 247,
+    "region_id": 13,
+    "name_en": "ပန်ဆန်း",
+    "name_mm": "ပန်ဆန်း",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 248,
+    "region_id": 13,
+    "name_en": "နားဖန်",
+    "name_mm": "နားဖန်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 249,
+    "region_id": 13,
+    "name_en": "ပန်ဝိုင်း",
+    "name_mm": "ပန်ဝိုင်း",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 250,
+    "region_id": 13,
+    "name_en": "မိုင်းမော",
+    "name_mm": "မိုင်းမော",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 251,
+    "region_id": 13,
+    "name_en": "မူဆယ်",
+    "name_mm": "မူဆယ်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 252,
+    "region_id": 13,
+    "name_en": "နမ့်ခမ်း",
+    "name_mm": "နမ့်ခမ်း",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 253,
+    "region_id": 13,
+    "name_en": "ကွတ်ခိုင်",
+    "name_mm": "ကွတ်ခိုင်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 254,
+    "region_id": 13,
+    "name_en": "ကျောက်မဲ",
+    "name_mm": "ကျောက်မဲ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 255,
+    "region_id": 13,
+    "name_en": "နောင်ချို",
+    "name_mm": "နောင်ချို",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 256,
+    "region_id": 13,
+    "name_en": "သီပေါ",
+    "name_mm": "သီပေါ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 257,
+    "region_id": 13,
+    "name_en": "နမ္မတူ",
+    "name_mm": "နမ္မတူ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 258,
+    "region_id": 13,
+    "name_en": "နမ့်ဆန်",
+    "name_mm": "နမ့်ဆန်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 259,
+    "region_id": 13,
+    "name_en": "မိုးမိတ်",
+    "name_mm": "မိုးမိတ်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 260,
+    "region_id": 13,
+    "name_en": "မဘိမ်း",
+    "name_mm": "မဘိမ်း",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 261,
+    "region_id": 13,
+    "name_en": "မန်တုံ",
+    "name_mm": "မန်တုံ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 262,
+    "region_id": 13,
+    "name_en": "ကွမ်းလုံ",
+    "name_mm": "ကွမ်းလုံ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 263,
+    "region_id": 13,
+    "name_en": "ဟိုပန်",
+    "name_mm": "ဟိုပန်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 264,
+    "region_id": 13,
+    "name_en": "လောက်ကိုင်",
+    "name_mm": "လောက်ကိုင်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 265,
+    "region_id": 13,
+    "name_en": "ကုန်းကြမ်း",
+    "name_mm": "ကုန်းကြမ်း",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 266,
+    "region_id": 13,
+    "name_en": "ကျိုင်းတုံ",
+    "name_mm": "ကျိုင်းတုံ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 267,
+    "region_id": 13,
+    "name_en": "မိုင်းလား",
+    "name_mm": "မိုင်းလား",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 268,
+    "region_id": 13,
+    "name_en": "မိုင်းခတ်",
+    "name_mm": "မိုင်းခတ်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 269,
+    "region_id": 13,
+    "name_en": "မိုင်းယန်း",
+    "name_mm": "မိုင်းယန်း",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 270,
+    "region_id": 13,
+    "name_en": "မက်မန်း",
+    "name_mm": "မက်မန်း",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 271,
+    "region_id": 13,
+    "name_en": "မိုင်းဆတ်",
+    "name_mm": "မိုင်းဆတ်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 272,
+    "region_id": 13,
+    "name_en": "မိုင်းပြင်း",
+    "name_mm": "မိုင်းပြင်း",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 273,
+    "region_id": 13,
+    "name_en": "မိုင်းတုံ",
+    "name_mm": "မိုင်းတုံ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 274,
+    "region_id": 13,
+    "name_en": "တာချီလိတ်",
+    "name_mm": "တာချီလိတ်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 275,
+    "region_id": 13,
+    "name_en": "မိုင်းဖြတ်",
+    "name_mm": "မိုင်းဖြတ်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 276,
+    "region_id": 13,
+    "name_en": "မိုင်းယောင်း",
+    "name_mm": "မိုင်းယောင်း",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 277,
+    "region_id": 14,
+    "name_en": "ထားဝယ်",
+    "name_mm": "ထားဝယ်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 278,
+    "region_id": 14,
+    "name_en": "လောင်းလုံ",
+    "name_mm": "လောင်းလုံ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 279,
+    "region_id": 14,
+    "name_en": "သရက်ချောင်း",
+    "name_mm": "သရက်ချောင်း",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 280,
+    "region_id": 14,
+    "name_en": "ရေဖြူ",
+    "name_mm": "ရေဖြူ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 281,
+    "region_id": 14,
+    "name_en": "မြိတ်",
+    "name_mm": "မြိတ်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 282,
+    "region_id": 14,
+    "name_en": "ကျွန်းစု",
+    "name_mm": "ကျွန်းစု",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 283,
+    "region_id": 14,
+    "name_en": "ပုလော",
+    "name_mm": "ပုလော",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 284,
+    "region_id": 14,
+    "name_en": "တနင်္သာရီ",
+    "name_mm": "တနင်္သာရီ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 285,
+    "region_id": 14,
+    "name_en": "ကော့သောင်း",
+    "name_mm": "ကော့သောင်း",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 286,
+    "region_id": 14,
+    "name_en": "ဘုတ်ပြင်း",
+    "name_mm": "ဘုတ်ပြင်း",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 287,
+    "region_id": 15,
+    "name_en": "အင်းစိန်",
+    "name_mm": "အင်းစိန်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 288,
+    "region_id": 15,
+    "name_en": "မင်္ဂလာဒုံ",
+    "name_mm": "မင်္ဂလာဒုံ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 289,
+    "region_id": 15,
+    "name_en": "မှော်ဘီ",
+    "name_mm": "မှော်ဘီ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 290,
+    "region_id": 15,
+    "name_en": "လှည်းကူး",
+    "name_mm": "လှည်းကူး",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 291,
+    "region_id": 15,
+    "name_en": "တိုက်ကြီး",
+    "name_mm": "တိုက်ကြီး",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 292,
+    "region_id": 15,
+    "name_en": "ထန်းတပင်",
+    "name_mm": "ထန်းတပင်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 293,
+    "region_id": 15,
+    "name_en": "ရွှေပြည်သာ",
+    "name_mm": "ရွှေပြည်သာ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 294,
+    "region_id": 15,
+    "name_en": "လှိုင်သာယာ",
+    "name_mm": "လှိုင်သာယာ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 295,
+    "region_id": 15,
+    "name_en": "သင်္ဃန်းကျွန်း",
+    "name_mm": "သင်္ဃန်းကျွန်း",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 296,
+    "region_id": 15,
+    "name_en": "ရန်ကင်း",
+    "name_mm": "ရန်ကင်း",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 297,
+    "region_id": 15,
+    "name_en": "တောင်ဥက္ကလာပ",
+    "name_mm": "တောင်ဥက္ကလာပ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 298,
+    "region_id": 15,
+    "name_en": "မြောက်ဥက္ကလာပ",
+    "name_mm": "မြောက်ဥက္ကလာပ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 299,
+    "region_id": 15,
+    "name_en": "သာကေတ",
+    "name_mm": "သာကေတ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 300,
+    "region_id": 15,
+    "name_en": "ဒေါပုံ",
+    "name_mm": "ဒေါပုံ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 301,
+    "region_id": 15,
+    "name_en": "တာမွေ",
+    "name_mm": "တာမွေ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 302,
+    "region_id": 15,
+    "name_en": "ပုဇွန်တောင်",
+    "name_mm": "ပုဇွန်တောင်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 303,
+    "region_id": 15,
+    "name_en": "ဗိုလ်တထောင်",
+    "name_mm": "ဗိုလ်တထောင်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 304,
+    "region_id": 15,
+    "name_en": "မင်္ဂလာတောင်ညွန့်",
+    "name_mm": "မင်္ဂလာတောင်ညွန့်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 305,
+    "region_id": 15,
+    "name_en": "ဒဂုံမြို့သစ် (မြောက်ပိုင်း)",
+    "name_mm": "ဒဂုံမြို့သစ် (မြောက်ပိုင်း)",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 306,
+    "region_id": 15,
+    "name_en": "ဒဂုံမြို့သစ် (တောင်ပိုင်း)",
+    "name_mm": "ဒဂုံမြို့သစ် (တောင်ပိုင်း)",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 307,
+    "region_id": 15,
+    "name_en": "ဒဂုံမြို့သစ် (အရှေ့ပိုင်း)",
+    "name_mm": "ဒဂုံမြို့သစ် (အရှေ့ပိုင်း)",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 308,
+    "region_id": 15,
+    "name_en": "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)",
+    "name_mm": "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 309,
+    "region_id": 15,
+    "name_en": "သန်လျင်",
+    "name_mm": "သန်လျင်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 310,
+    "region_id": 15,
+    "name_en": "သုံးခွ",
+    "name_mm": "သုံးခွ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 311,
+    "region_id": 15,
+    "name_en": "ကျောက်တန်း",
+    "name_mm": "ကျောက်တန်း",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 312,
+    "region_id": 15,
+    "name_en": "ခရမ်း",
+    "name_mm": "ခရမ်း",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 313,
+    "region_id": 15,
+    "name_en": "တွံတေး",
+    "name_mm": "တွံတေး",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 314,
+    "region_id": 15,
+    "name_en": "ကွမ်းခြံကုန်း",
+    "name_mm": "ကွမ်းခြံကုန်း",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 315,
+    "region_id": 15,
+    "name_en": "ကော့မှူး",
+    "name_mm": "ကော့မှူး",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 316,
+    "region_id": 15,
+    "name_en": "ဒလ",
+    "name_mm": "ဒလ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 317,
+    "region_id": 15,
+    "name_en": "ဆိပ်ကြီးခနောင်တို",
+    "name_mm": "ဆိပ်ကြီးခနောင်တို",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 318,
+    "region_id": 15,
+    "name_en": "ကိုကိုးကျွန်း",
+    "name_mm": "ကိုကိုးကျွန်း",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 319,
+    "region_id": 15,
+    "name_en": "ကျောက်တံတား",
+    "name_mm": "ကျောက်တံတား",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 320,
+    "region_id": 15,
+    "name_en": "လသာ",
+    "name_mm": "လသာ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 321,
+    "region_id": 15,
+    "name_en": "လမ်းမတော်",
+    "name_mm": "လမ်းမတော်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 322,
+    "region_id": 15,
+    "name_en": "ပန်းဘဲတန်း",
+    "name_mm": "ပန်းဘဲတန်း",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 323,
+    "region_id": 15,
+    "name_en": "အလုံ",
+    "name_mm": "အလုံ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 324,
+    "region_id": 15,
+    "name_en": "ကြည့်မြင်တိုင်",
+    "name_mm": "ကြည့်မြင်တိုင်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 325,
+    "region_id": 15,
+    "name_en": "စမ်းချောင်း",
+    "name_mm": "စမ်းချောင်း",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 326,
+    "region_id": 15,
+    "name_en": "ကမာရွတ်",
+    "name_mm": "ကမာရွတ်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 327,
+    "region_id": 15,
+    "name_en": "လှိုင်",
+    "name_mm": "လှိုင်",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 328,
+    "region_id": 15,
+    "name_en": "မရမ်းကုန်း",
+    "name_mm": "မရမ်းကုန်း",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 329,
+    "region_id": 15,
+    "name_en": "ဗဟန်း",
+    "name_mm": "ဗဟန်း",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 330,
+    "region_id": 15,
+    "name_en": "ဒဂုံ",
+    "name_mm": "ဒဂုံ",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  },
+  {
+    "id": 331,
+    "region_id": 15,
+    "name_en": "ဆိပ်ကမ်း",
+    "name_mm": "ဆိပ်ကမ်း",
+    "code": "NULL",
+    "created_at": "2021-07-28 13:00:24",
+    "updated_at": "2021-07-28 13:00:24"
+  }
+]
