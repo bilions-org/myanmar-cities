@@ -6,6 +6,8 @@
 
 - Create a new branch and open PR
 
+## Usage
+
 - `let myanmarCity = require('myanmar-cities')`
 - `import myanmarCity from 'myanmar-cities'`
 
