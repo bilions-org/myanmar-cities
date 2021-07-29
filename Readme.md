@@ -1,3 +1,11 @@
+# Need Contributors
+
+- We want to add village names associated with city
+
+## How to Contribute
+
+- Create a new branch and open PR
+
 - `let myanmarCity = require('myanmar-cities')`
 - `import myanmarCity from 'myanmar-cities'`
 
