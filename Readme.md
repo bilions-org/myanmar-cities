@@ -4,16 +4,31 @@
 
 ## How to Contribute
 
-- Create a new branch and open PR
+- Fork repo (https://github.com/Bilions-Integration/myanmar-cities)
+- Create your feature branch (git checkout -b <feature/new-feature>)
+- Commit your changes (git commit -m 'describe what you did')
+- Push to your branch (git push origin <feature/new-feature>)
+- Create a new PR (Pull Request)
+
+## Installation
+
+`npm install @bilions/myanmar-cities`
 
 ## Usage
 
-- `let myanmarCity = require('myanmar-cities')`
-- `import myanmarCity from 'myanmar-cities'`
+- `import myanmarCity from '@bilions/myanmar-cities'`
+  Or
+- `let myanmarCity = require('@bilions/myanmar-cities')`
 
-- `console.log(myanmarCity.getRegions())`
+| Function                   | Description                                                         |
+| -------------------------- | ------------------------------------------------------------------- |
+| myanmarCity.getRegions()   | Get regions and states from myanmar including (Naypyitaw)           |
+| myanmarCity.getCities(1)   | Get cities from state or region. First Param is regionId            |
+| myanmarCity.getCitiesMM(1) | Get cities from state or region in myanmar. First Param is regionId |
+| myanmarCity.getCitiesEN(1) | Get cities from state or region in english. First Param is regionId |
 
 ```
+- myanmarCity.getRegions()
 
 [
   { id: 1, name_en: 'Ayarwaddy', name_mm: 'ဧရာဝတီတိုင်းဒေသကြီး', code: 'AYY' },
@@ -34,9 +49,9 @@
 ]
 ```
 
-- `console.log(myanmarCity.getCities(1))`
-
 ```
+- myanmarCity.getCities(1)
+
 [
   { id: 1, name_mm: 'ပုသိမ်', name_en: 'Pathein' },
   { id: 2, name_mm: 'ကန်ကြီးထောင့်', name_en: 'Kangyidaunt' },
@@ -64,6 +79,74 @@
   { id: 24, name_mm: 'ကျိုက်လတ်', name_en: 'Kyaiklat' },
   { id: 25, name_mm: 'ဘိုကလေး', name_en: 'Bogale' },
   { id: 26, name_mm: 'ဒေးဒရဲ', name_en: 'Dedaye' }
+]
+
+```
+
+```
+- myanmarCity.getCitiesMM(1)
+
+[
+  { id: 1, name: 'ပုသိမ်'},
+  { id: 2, name: 'ကန်ကြီးထောင့်'},
+  { id: 3, name: 'သာပေါင်း'},
+  { id: 4, name: 'ငပုတော'},
+  { id: 5, name: 'ကျုံပျော်'},
+  { id: 6, name: 'ရေကြည်'},
+  { id: 7, name: 'ကျောင်းကုန်း'},
+  { id: 8, name: 'ဟင်္သာတ'},
+  { id: 9, name: 'ဇလွန်'},
+  { id: 10, name: 'လေးမျက်နှာ'},
+  { id: 11, name: 'မြန်အောင်'},
+  { id: 12, name: 'ကြံခင်း'},
+  { id: 13, name: 'အဂံပူ'},
+  { id: 14, name: 'မြောင်းမြ'},
+  { id: 15, name: 'အိမ်မဲ'},
+  { id: 16, name: 'ဝါးခယ်မ'},
+  { id: 17, name: 'လပွတ္တာ'},
+  { id: 18, name: 'မော်လမြိုင်ကျွန်း'},
+  { id: 19, name: 'ပန်းတနော်'},
+  { id: 20, name: 'ညောင်တုန်း'},
+  { id: 21, name: 'ဓနုဖြူ'},
+  { id: 22, name: 'မအူပင်'},
+  { id: 23, name: 'ဖျာပုံ'},
+  { id: 24, name: 'ကျိုက်လတ်'},
+  { id: 25, name: 'ဘိုကလေး'},
+  { id: 26, name: 'ဒေးဒရဲ'}
+]
+
+```
+
+```
+- myanmarCity.getCitiesEN(1)
+
+[
+  { id: 1, name: 'Pathein' },
+  { id: 2, name: 'Kangyidaunt' },
+  { id: 3, name: 'Thabaung' },
+  { id: 4, name: 'Ngaputaw' },
+  { id: 5, name: 'Kyonpyaw' },
+  { id: 6, name: 'Yegyi' },
+  { id: 7, name: 'Kyaunggon' },
+  { id: 8, name: 'Hinthada' },
+  { id: 9, name: 'Zalun' },
+  { id: 10, name: 'Laymyethna' },
+  { id: 11, name: 'Myanaung' },
+  { id: 12, name: 'Kyangin' },
+  { id: 13, name: 'Ingapu' },
+  { id: 14, name: 'Myaungmya' },
+  { id: 15, name: 'Einme' },
+  { id: 16, name: 'Wakema' },
+  { id: 17, name: 'Labutta' },
+  { id: 18, name: 'Mawlamyinegyun' },
+  { id: 19, name: 'Pantanaw' },
+  { id: 20, name: 'Nyaungdon' },
+  { id: 21, name: 'Danubyu' },
+  { id: 22, name: 'Maubin' },
+  { id: 23, name: 'Pyapon' },
+  { id: 24, name: 'Kyaiklat' },
+  { id: 25, name: 'Bogale' },
+  { id: 26, name: 'Dedaye' }
 ]
 
 ```
